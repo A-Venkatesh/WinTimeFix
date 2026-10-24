@@ -1,0 +1,15 @@
+# Windows OS files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# PowerShell test output / transcripts
+*.log
+transcript.txt
+
